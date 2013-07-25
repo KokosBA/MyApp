@@ -1,0 +1,4 @@
+MyApp
+=====
+
+PhoneGap application
